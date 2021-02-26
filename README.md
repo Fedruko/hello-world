@@ -1,2 +1,3 @@
 # hello-world
-liquid brain
+
+hi just want to learn some codo despite a little liquid brain!!!
